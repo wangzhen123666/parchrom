@@ -12,8 +12,8 @@
            remote="MiCode"
            sync-j="4" />
 
-  <project path="manifest" name="trulyliu/patchrom"/>
-  <project path="onext" name="trulyliu/patchrom_onext"/>
+  <project path="manifest" name="wangzhen123666/patchrom"/>
+  <project path="G14" name="wangzhen123666/patchrom_G14"/>
   <project path="build" name="MiCode/patchrom_build" remote="MiCode" revision='jellybean'>
     <copyfile src="makefile" dest="Makefile" />
   </project>
